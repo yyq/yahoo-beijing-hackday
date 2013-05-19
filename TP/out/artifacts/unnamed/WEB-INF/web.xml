@@ -1,0 +1,23 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+    <servlet>
+        <servlet-name>message</servlet-name>
+        <servlet-class>com.tp.MessageServelet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>oldMessage</servlet-name>
+        <servlet-class>com.tp.GetMessageServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>message</servlet-name>
+        <url-pattern>/postmessage</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>oldMessage</servlet-name>
+        <url-pattern>/oldmessage</url-pattern>
+    </servlet-mapping>
+</web-app>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="untitled1:war exploded">
+    <output-path>$PROJECT_DIR$/target/TP</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="untitled1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="untitled1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.9" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
