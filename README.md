@@ -14,6 +14,7 @@ Source Code URL: <https://github.com/yyq/yahoo-beijing-hackday>
 Our Team
 
 Team Name:Exception
+
 | Name | University | Email |
 |------|------------|-------|
 | Li Boyang | BUPT | willianlby@yahoo.cn |
