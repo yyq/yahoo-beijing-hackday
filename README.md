@@ -10,6 +10,7 @@ Tags: Travel, Geography-Based, Web-App, Mobile, Pictures, Messages
 
 Source Code URL: <https://github.com/yyq/yahoo-beijing-hackday>
 
+Yahoo Technology we used: YUI, YQL, Flickr API, Weather, Placefinder
 
 Our Team
 
